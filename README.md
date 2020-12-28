@@ -16,8 +16,6 @@
 - Check http://localhost:5000
 - Done! :tada:
 
-:point_down:Screenshot:
-
 <p align="center">
   <img src="https://storage.googleapis.com/ustfypcnn/model_api.PNG" width="600px" alt="">
 </p>

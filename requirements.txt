@@ -6,4 +6,4 @@ gevent
 pillow
 h5py
 tensorflow-gpu==1.14.0
-tensorflow
+tensorflow==2.2
