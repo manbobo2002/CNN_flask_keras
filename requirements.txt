@@ -1,5 +1,5 @@
 Werkzeug
-scipy==1.4.1
+scipy
 gast==0.3.3
 Flask
 numpy
